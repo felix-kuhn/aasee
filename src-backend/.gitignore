@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+
+# Scraped data (re-hydrate any time)
+data/
+
+# Env
+.env
